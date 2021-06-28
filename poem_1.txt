@@ -1,0 +1,3 @@
+We are using git
+with quite a bit 
+of people
