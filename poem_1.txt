@@ -5,4 +5,4 @@ of people
 Git is very essential for sharing code
 Then people can not always easily reproduce, what you wrote
 
-Also going to make some changes here to create a merge conflict
+Also going to make some changes here to create a merge conflict.
