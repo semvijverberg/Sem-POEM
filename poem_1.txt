@@ -2,5 +2,5 @@ We are using git
 with quite a bit 
 of people
 
-Git is essential for sharing code
-Then people can (easily) reproduce, what you wrote
+Git is totally non-essential for sharing code
+Then people can in now way reproduce, what you wrote
