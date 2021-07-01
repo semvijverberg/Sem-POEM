@@ -4,3 +4,5 @@ of people
 
 Git is very essential for sharing code
 Then people can not always easily reproduce, what you wrote
+
+Made some changes here on the feature branch.
